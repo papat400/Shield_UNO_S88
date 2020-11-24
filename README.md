@@ -22,7 +22,7 @@ Ce shield est conçu pour fonctionner avec:
 * Un arduino UNO pour commander un train électrique DCC / MFX via un bouclier CanDIY comme indiqué sur https://wiki.mchobby.be/index.php?title=Railuino
 * Le projet Desktop Station réalisé par Yaasan, voir https://desktopstation.net/index.html
 
-L'image assembly_shields.jpg montre une vue du système (avec une ancienne version de base de mon PCB).
+L'image assembly_shields.jpg montre une vue du système (avec une ancienne version basique de mon PCB).
 
 Le shield est le point de départ du bus S88, avec les connexions au UNO telles que programmées dans le croquis TrackReporterS88_DS (une partie du projet Desktop Station).
 Voir le câblage S88 sur le fichier S88_wiring.pdf.

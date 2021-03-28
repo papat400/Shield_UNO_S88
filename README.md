@@ -22,6 +22,9 @@ In the Eagle file's you'll find a simple version with only an S88-N connector (R
 This PCB is designed for an RJ45 Stewart connector, type SS-7188S-A-NF (see datasheet).
 If you want, you can change it with Eagle or a compatible software.
 
+2021 03 28 : Added file Connection diagram.pdf, shows how to connect this S88 to the track and other switches.
+
+
 Français
 --------
 
@@ -42,3 +45,8 @@ Dans le fichier Eagle, vous trouverez une version simple avec uniquement un conn
 
 Ce PCB est conçu pour un connecteur RJ45 de Stewart connector, type SS-7188S-A-NF (voir datasheet).
 Si vous le souhaitez, vous pouvez le modifier avec Eagle ou un logiciel compatible.
+
+28 mars 2021 : ajout d'un fichier Connection Diagram.pdf montrant comment connecter le détecteur S88 à la voie et aux autres accessoires.
+
+
+Thierry.

@@ -8,6 +8,8 @@ This shield is designed to work with :
 * An arduino UNO to command DCC/MFX electric train through a CanDIY shield like showed at https://wiki.mchobby.be/index.php?title=Railuino
 * The Desktop Station project made by Yaasan, see https://desktopstation.net/index.html
 
+Please note that to use this shield on top of the CanDIY shield, you will need to equip it with long headers.
+
 The picture assembled_shields.jpg shows a view of the system (with an old basic version of my PCB).
 
 The shield is the starting point of the S88 bus, with UNO connections as programmed in the TrackReporterS88_DS sketch (a part of the Desktop Station project).
@@ -31,6 +33,8 @@ Français
 Ce shield est conçu pour fonctionner avec:
 * Un arduino UNO pour commander un train électrique DCC / MFX via un bouclier CanDIY comme indiqué sur https://wiki.mchobby.be/index.php?title=Railuino
 * Le projet Desktop Station réalisé par Yaasan, voir https://desktopstation.net/index.html
+
+Veuillez noter que pour utiliser ce module complémentaire par-dessus le module CanDIY, vous devrez l'équiper de connecteurs à broches longues.
 
 L'image assembly_shields.jpg montre une vue du système (avec une ancienne version basique de mon PCB).
 
